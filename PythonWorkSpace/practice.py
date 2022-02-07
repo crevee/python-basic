@@ -132,3 +132,5 @@ my_str = my_str[:my_str.index(".")] # my_str[0:5] -> 0 ~ 5 직전까지
 
 testpassword = my_str[:3] + str(len(my_str)) + str(my_str.count("e")) + "!"
 print(testurl + "의 생성된 비밀번호는 : " + testpassword)
+
+20220207

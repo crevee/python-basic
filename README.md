@@ -54,10 +54,17 @@ Visual Studio Code를 사용하였습니다.
   
 14.practice14.py
 
-[모듈과 패키지] 모듈, 패키지, __all__, 모듈 직접 실행, 패키지, 모듈 위치, pip install, 내장함수, 외장함수
-
+  [모듈과 패키지] 모듈, 패키지, __all__, 모듈 직접 실행, 패키지, 모듈 위치
+  
 15.practice15.py
 16.practice16.py
+
+  travel 폴더의 __init__.py, thailand.py, vietnam,py 사용
+  
 17.practice17.py
+
+  [모듈과 패키지] pip install, 내장함수, 외장함수
+
 18.practice18.py
 
+  byme.py 사용

@@ -11,42 +11,42 @@ Visual Studio Code를 사용하였습니다.
 
 <h3>파일 설명</h3>
 
-1. practice1.py 
+1.practice1.py 
 
 [자료형] 숫자 자료형, 문자열 자료형, boolean 자료형, 변수, 주석 \
 [문자열 처리] 문자열, 슬라이싱, 문자열처리함수, 문자열포맷, 탈출문자  \
 [연산자] 연산자, 간단한 수식, 숫자처리함수, 랜덤함수 \
 [문자열 처리] 문자열, 슬라이싱, 문자열처리함수, 문자열포맷, 탈출문자
   
-2. practice2.py 
+2.practice2.py 
 
 [자료구조] 리스트, 사전, 튜플, 세트, 자료구조의 변경
 
-3. practice3.py 
+3.practice3.py 
 
 [제어문] if
   
-6. practice4.py 
+4.practice4.py 
 
 [제어문] for, while
 
-5. practice5.py
+5.practice5.py
 
 [제어문] continue와 break
 
-6. practice6.py 
+6.practice6.py 
 
 [함수] 함수, 전달값과 반환값, 기본값, 키워드값, 가변인자, 지역변수와 전역변수
   
-7. practice7.py 
+7.practice7.py 
 
 [입출력] 표준입출력, 다양한 출력포맷
   
-8. practice8.py 
+8.practice8.py 
   
 [입출력] 파일입출력
 
-9. practice9.py 
+9.practice9.py 
 
 [입출력] pickle, with
  
